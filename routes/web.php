@@ -19,6 +19,7 @@ Route::get('/test/{id?}/{name?}', function ($id,$name) {
 })->where(['id' => '[0-9]{5,}','name' => '[a-z]{2,}']);
 
 Route::get('/test/show', 'TestController@show');
+Route::get('/links', 'Links@show');
 
 Route::get('/pages/show/{id}', 'Page@showOne')->where('id','[0-9]+');
 

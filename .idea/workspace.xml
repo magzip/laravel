@@ -11,10 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59e7a1ba-9d1c-4a2a-976d-66f13503a39b" name="Default Changelist" comment="Чистая lara">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/TestController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/tests.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/test.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Links.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/links.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
@@ -163,6 +161,7 @@
       <workItem from="1598728949698" duration="359000" />
       <workItem from="1598729905470" duration="7158000" />
       <workItem from="1598764206681" duration="6793000" />
+      <workItem from="1598982099689" duration="3648000" />
     </task>
     <task id="LOCAL-00001" summary="Чистая lara">
       <created>1598701134802</created>
@@ -194,18 +193,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Чистая lara" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2610" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1598735256596">
+    <state x="2610" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1598982595271">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2610" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1598735256596" />
+    <state x="2610" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1598982595271" />
     <state x="2660" y="261" key="FileChooserDialogImpl" timestamp="1598700728995">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="261" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1598700728995" />
-    <state x="2714" y="443" key="NewPhpFileDialog" timestamp="1598800197319">
+    <state x="2714" y="443" key="NewPhpFileDialog" timestamp="1598982793917">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2714" y="443" key="NewPhpFileDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1598800197319" />
+    <state x="2714" y="443" key="NewPhpFileDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1598982793917" />
     <state x="2381" y="165" key="SettingsEditor" timestamp="1598701945769">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
